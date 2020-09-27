@@ -12,7 +12,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 def main():
     st.title("Binary Classification Web App")
-    st.sidebar.title("Binary Classisfication Web App")
+    st.sidebar.title("Binary Classisfier Hypermparamter Tuning")
     st.markdown(
     """
 <style>
